@@ -1,2 +1,1 @@
-# tcc-apendice
-Este repositório contém experimentos de aplicação de frases de contexto com diferentes técnicas de prompts para modelos gerativos de linguagem como parte do processo metodológico de um Trabalho de Conclusão de Curso.
+Este repositório contém experimentos de aplicação de frases de contexto com diferentes técnicas de prompts para modelos gerativos de linguagem como parte do processo metodológico do artigo "Me deixe pensar sobre isso! uma análise do uso de CoT para identificar vieses nas repostas de LLM para o Português Brasileiro".
